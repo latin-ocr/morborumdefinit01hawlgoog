@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./morborumdefinit01hawlgoog_0024.png"; bbox 0 0 831 1325; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 306 173 649 190">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 306 173 649 190">
+     <span class='ocr_line' id='line_1_1' title="bbox 306 173 649 190; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 306 177 371 190; x_wconf 76' lang='lat' dir='ltr'>fflnEx</span> <span class='ocrx_word' id='word_1_2' title='bbox 379 176 459 190; x_wconf 34' lang='lat' dir='ltr'>RERUM*</span> <span class='ocrx_word' id='word_1_3' title='bbox 627 173 649 189; x_wconf 77' lang='lat' dir='ltr'>ll</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 151 220 651 241">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 151 220 651 241">
+     <span class='ocr_line' id='line_1_2' title="bbox 151 220 651 241; baseline -0.002 -5"><span class='ocrx_word' id='word_1_4' title='bbox 151 221 234 237; x_wconf 82' lang='lat' dir='ltr'>ccxvm.</span> <span class='ocrx_word' id='word_1_5' title='bbox 245 221 352 236; x_wconf 59' lang='lat' dir='ltr'>nemcmoffle</span> <span class='ocrx_word' id='word_1_6' title='bbox 357 221 448 241; x_wconf 56' lang='lat' dir='ltr'>hydrum,</span> <span class='ocrx_word' id='word_1_7' title='bbox 453 220 526 240; x_wconf 67' lang='lat' dir='ltr'>signisque</span> <span class='ocrx_word' id='word_1_8' title='bbox 530 225 547 235; x_wconf 66' lang='lat' dir='ltr'>eo</span> <span class='ocrx_word' id='word_1_9' title='bbox 551 220 651 239; x_wconf 51' lang='lat' dir='ltr'>hammonis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 167 245 651 255">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 167 245 651 255">
+     <span class='ocr_line' id='line_1_3' title="bbox 167 245 651 255; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 167 246 229 255; x_wconf 65' lang='lat' dir='ltr'>wvrv</span> <span class='ocrx_word' id='word_1_11' title='bbox 247 246 270 255; x_wconf 87' lang='lat' dir='ltr'>n-</span> <span class='ocrx_word' id='word_1_12' title='bbox 278 246 326 255; x_wconf 59' lang='lat' dir='ltr'>name.</span> <span class='ocrx_word' id='word_1_13' title='bbox 342 246 410 255; x_wconf 57' lang='lat' dir='ltr'><strong>Mamm„</strong></span> <span class='ocrx_word' id='word_1_14' title='bbox 420 248 459 255; x_wconf 60' lang='lat' dir='ltr'>mm.</span> <span class='ocrx_word' id='word_1_15' title='bbox 467 245 528 255; x_wconf 55' lang='lat' dir='ltr'>,nm-⁶³.</span> <span class='ocrx_word' id='word_1_16' title='bbox 540 248 587 255; x_wconf 68' lang='lat' dir='ltr'>..m-»2</span> <span class='ocrx_word' id='word_1_17' title='bbox 594 245 651 255; x_wconf 45' lang='lat' dir='ltr'>mmm,k</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

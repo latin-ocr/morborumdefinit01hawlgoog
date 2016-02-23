@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./morborumdefinit01hawlgoog_0056.png"; bbox 0 0 831 1325; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 245 131 642 148">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 245 131 642 148">
+     <span class='ocr_line' id='line_1_1' title="bbox 245 131 642 148; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 245 134 527 148; x_wconf 68' lang='lat' dir='ltr'>AMAUROSIS.—CATARACTA.</span> <span class='ocrx_word' id='word_1_2' title='bbox 619 131 642 147; x_wconf 63' lang='grc'>48</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 132 183 643 290">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 345 183 432 196">
+     <span class='ocr_line' id='line_1_2' title="bbox 345 183 432 196; baseline -0.011 0"><span class='ocrx_word' id='word_1_3' title='bbox 345 183 432 196; x_wconf 40' lang='lat' dir='ltr'>suen-25&gt;</span> 
+     </span>
+    </p>
+
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 132 206 643 290">
+     <span class='ocr_line' id='line_1_3' title="bbox 157 206 643 231; baseline -0.002 -5"><span class='ocrx_word' id='word_1_4' title='bbox 157 213 175 226; x_wconf 78' lang='lat' dir='ltr'>a.</span> <span class='ocrx_word' id='word_1_5' title='bbox 188 207 407 228; x_wconf 59' lang='lat' dir='ltr'><strong>CouPnEsmonm—ob</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 420 206 496 231; x_wconf 64' lang='lat' dir='ltr'><strong>aliquam</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 509 212 585 228; x_wconf 67' lang='lat' dir='ltr'>cumam,</span> <span class='ocrx_word' id='word_1_8' title='bbox 598 213 643 231; x_wconf 70' lang='lat' dir='ltr'>quae</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 132 235 643 260; baseline -0.002 -5"><span class='ocrx_word' id='word_1_9' title='bbox 132 237 221 255; x_wconf 69' lang='lat' dir='ltr'>cerebrum</span> <span class='ocrx_word' id='word_1_10' title='bbox 230 237 337 258; x_wconf 62' lang='lat' dir='ltr'>universum,</span> <span class='ocrx_word' id='word_1_11' title='bbox 346 236 374 255; x_wconf 75' lang='lat' dir='ltr'>vel</span> <span class='ocrx_word' id='word_1_12' title='bbox 381 242 455 255; x_wconf 74' lang='lat' dir='ltr'>nervum</span> <span class='ocrx_word' id='word_1_13' title='bbox 463 235 549 260; x_wconf 68' lang='lat' dir='ltr'>optinum,</span> <span class='ocrx_word' id='word_1_14' title='bbox 556 236 643 260; x_wconf 72' lang='lat' dir='ltr'>ejusdem-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 132 265 327 290; baseline -0.005 -6"><span class='ocrx_word' id='word_1_15' title='bbox 132 272 154 284; x_wconf 82' lang='lat' dir='ltr'>ve</span> <span class='ocrx_word' id='word_1_16' title='bbox 162 266 230 284; x_wconf 70' lang='lat' dir='ltr'><strong>fontem</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 238 265 327 290; x_wconf 66' lang='lat' dir='ltr'>opprimit.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
